@@ -1,0 +1,6 @@
+framework module Pods_quote_with_image {
+  umbrella header "Pods-quote with image-umbrella.h"
+
+  export *
+  module * { export * }
+}

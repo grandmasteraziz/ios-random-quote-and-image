@@ -1,0 +1,6 @@
+framework module Pods_quote_with_imageTests {
+  umbrella header "Pods-quote with imageTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
