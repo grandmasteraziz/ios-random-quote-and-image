@@ -1,4 +1,3 @@
-# ios-random-quote-and-image
 
 # Goal
 
